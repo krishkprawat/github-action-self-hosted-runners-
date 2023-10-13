@@ -13,3 +13,4 @@ outbound traffic - http - ipv4- port 80 - https -ipv4-
 4. execute the steps mentioned on the screen (run all commands on ec2)
 
 thanks for reading...
+test job run
